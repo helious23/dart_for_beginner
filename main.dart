@@ -1,13 +1,9 @@
-void main() {
-  Set<int> numbers = {1, 2, 3, 4};
-  numbers.add(1);
-  numbers.add(1);
-  numbers.add(1);
-  numbers.add(1);
-  numbers.add(1);
-  numbers.add(1);
-  numbers.add(1);
-  numbers.add(1);
+String sayHello(String potato) {
+  return "Hello $potato nice to meet you!";
+}
 
-  print(numbers);
+num plus(num a, num b) => a + b;
+
+void main() {
+  print(sayHello('Max'));
 }
