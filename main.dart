@@ -1,9 +1,15 @@
-String sayHello(String potato) {
-  return "Hello $potato nice to meet you!";
+String sayHello({
+  required String name,
+  required int age,
+  required String country,
+}) {
+  return "Hello $name, you are $age, and you come from $country";
 }
 
-num plus(num a, num b) => a + b;
-
 void main() {
-  print(sayHello('Max'));
+  print(sayHello(
+    age: 33,
+    country: 'AUS',
+    name: 'Max',
+  ));
 }
