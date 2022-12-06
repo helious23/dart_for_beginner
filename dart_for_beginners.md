@@ -1,0 +1,35 @@
+## Dart for Beginners
+
+- [x] Dart Overview
+  - [x] JIT(Just in Time), AOT(Ahead of Time)
+  - [x] How to take this course?
+- [x] Hello World
+- [x] Variables
+  - [x] var
+  - [x] Null Safety
+  - [x] late
+  - [x] final
+  - [x] const
+- [x] Built-in types
+  - [x] Numbers
+  - [x] Strings
+  - [x] Booleans
+  - [x] Lists
+    - [x] collection if
+    - [x] collection for
+  - [x] Sets
+  - [x] Maps
+- [ ] Functions
+  - [ ] Named Parameters
+  - [ ] Optional Positional parameters
+- [ ] Operators
+  - [ ] ??
+  - [ ] Cascade notation
+- [ ] Exceptions
+- [ ] Classes
+  - [ ] Instance Variables
+  - [ ] Generative Constructors
+  - [ ] Named Constructors
+  - [ ] Factory Constructors
+  - [ ] Methods
+  - [ ] Abstract Methods and Classes
