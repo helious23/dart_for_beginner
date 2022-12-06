@@ -20,7 +20,7 @@
   - [x] Sets
   - [x] Maps
 - [ ] Functions
-  - [ ] Named Parameters
+  - [x] Named Parameters
   - [ ] Optional Positional parameters
 - [ ] Operators
   - [ ] ??
