@@ -21,7 +21,7 @@
   - [x] Maps
 - [ ] Functions
   - [x] Named Parameters
-  - [ ] Optional Positional parameters
+  - [x] Optional Positional parameters
 - [ ] Operators
   - [ ] ??
   - [ ] Cascade notation
