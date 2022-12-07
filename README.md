@@ -19,7 +19,7 @@
     - [x] collection for
   - [x] Sets
   - [x] Maps
-- [ ] Functions
+- [x] Functions
   - [x] Named Parameters
   - [x] Optional Positional parameters
 - [ ] Operators
@@ -27,9 +27,10 @@
   - [ ] Cascade notation
 - [ ] Exceptions
 - [ ] Classes
-  - [ ] Instance Variables
-  - [ ] Generative Constructors
-  - [ ] Named Constructors
+  - [x] Instance Variables
+  - [x] Constructor
+  - [x] Generative Constructors
+  - [x] Named Constructors
   - [ ] Factory Constructors
   - [ ] Methods
   - [ ] Abstract Methods and Classes
