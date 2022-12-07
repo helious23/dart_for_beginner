@@ -1,10 +1,12 @@
-String sayHello(String name, int age, [String? country = 'AUS']) =>
-    'Hello $name, you are $age years old from $country';
+String capitalizeName(String? name) => name?.toUpperCase() ?? "ANON";
 
 void main() {
-  var results = sayHello(
-    'max',
-    12,
-  );
-  print(results);
+  var result = capitalizeName('max');
+  print(result);
+  var nullResult = capitalizeName(null);
+  print(nullResult);
+
+  String? name;
+  name ??= "ANON";
+  print(name);
 }
