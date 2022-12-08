@@ -31,6 +31,7 @@
   - [x] Constructor
   - [x] Generative Constructors
   - [x] Named Constructors
+  - [x] Cascade Notation
   - [ ] Factory Constructors
   - [ ] Methods
   - [ ] Abstract Methods and Classes
